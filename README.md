@@ -1,4 +1,4 @@
-# SmartShiksha - React + Tailwind Prototype
+# SmartShiksha - React + Tailwind Prototype :
 
 SIH 2026 · Problem Statement 26207 · Theme: Smart Education (AICTE)
 
