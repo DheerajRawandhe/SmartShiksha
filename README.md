@@ -17,7 +17,7 @@ npm run dev
 Open the printed local URL. Sign in with any of the three roles from the login
 screen — demo credentials are pre-filled, no backend required.
 
-## Build for production
+## Build for production :
 
 ```bash
 npm run build
