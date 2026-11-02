@@ -7,7 +7,7 @@ workspaces, built with React 18, Vite and Tailwind CSS, with full light/dark mod
 and a fully responsive layout. All data in `src/data/dummyData.js` is illustrative
 sample data for the demo.
 
-## Run locally
+## Run locally :
 
 ```bash
 npm install
